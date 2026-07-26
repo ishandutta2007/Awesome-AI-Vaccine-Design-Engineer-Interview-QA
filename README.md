@@ -1,8 +1,12 @@
-# Awesome AI Vaccine Design Engineer Interview Q&A
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Vaccine Design Engineer Banner" width="100%">
+</div>
+
+# 🧬 Awesome AI Vaccine Design Engineer Interview Q&A 🧪
 
 A comprehensive, community-curated collection of **185+ interview questions and answers** for **AI Vaccine Design Engineer** roles — professionals who apply machine learning and structural/computational biology to antigen design, epitope prediction, immunogen optimization, and vaccine platform engineering, sitting at the intersection of immunology, structural biology, computational modeling, and vaccine development regulatory science.
 
-## 📌 Overview
+## 📌 🦠 Overview
 
 **AI Vaccine Design Engineers** build and apply computational tools across the vaccine development pipeline — B-cell and T-cell epitope prediction, antigen/immunogen structure-based design, HLA binding and population coverage modeling, viral/pathogen evolution and escape prediction, and platform-specific optimization (mRNA, viral vector, protein subunit) — while navigating the unique constraints of immunological complexity (polymorphic HLA, pathogen antigenic variability) and vaccine-specific regulatory and clinical development pathways.
 
@@ -21,7 +25,7 @@ This repository covers:
 
 ---
 
-## 📚 Repository Structure
+## 📚 📁 Repository Structure
 
 ```
 Awesome-AI-Vaccine-Design-Engineer-Interview-QA/
@@ -50,7 +54,7 @@ Awesome-AI-Vaccine-Design-Engineer-Interview-QA/
 
 ---
 
-## 🎯 Topic Breakdown
+## 🎯 📊 Topic Breakdown
 
 | # | Topic | Focus Area | Q&A Count |
 |---|-------|-----------|-----------|
@@ -70,7 +74,7 @@ Awesome-AI-Vaccine-Design-Engineer-Interview-QA/
 
 ---
 
-## 🚀 How to Use This Repository
+## 🚀 🛤️ How to Use This Repository
 
 ### Study Plan (6 Weeks)
 - **Week 1:** Topics 01–02 (Immunology Fundamentals + B-Cell Epitope/Antigen Design)
@@ -82,7 +86,7 @@ Awesome-AI-Vaccine-Design-Engineer-Interview-QA/
 
 ---
 
-## 📖 Quick Start Example
+## 📖 ⚡ Quick Start Example
 
 **From Topic 04: Pathogen Evolution & Escape Prediction**
 
@@ -92,7 +96,7 @@ Awesome-AI-Vaccine-Design-Engineer-Interview-QA/
 
 ---
 
-## 🤝 Contributing
+## 🤝 🌱 Contributing
 
 See **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines.
 
@@ -104,7 +108,7 @@ See **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines.
 
 ---
 
-## 📜 License
+## 📜 ⚖️ License
 MIT License — see **[LICENSE](LICENSE)**.
 
 ---
