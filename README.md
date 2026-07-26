@@ -3,6 +3,9 @@
 </div>
 
 # 🧬 Awesome AI Vaccine Design Engineer Interview Q&A 🧪
+<div align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
 
 A comprehensive, community-curated collection of **185+ interview questions and answers** for **AI Vaccine Design Engineer** roles — professionals who apply machine learning and structural/computational biology to antigen design, epitope prediction, immunogen optimization, and vaccine platform engineering, sitting at the intersection of immunology, structural biology, computational modeling, and vaccine development regulatory science.
 
